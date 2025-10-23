@@ -1,0 +1,19 @@
+[project]
+name = "hybrid-chat-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "backoff>=2.2.1",
+    "neo4j==5.26.0",
+    "networkx==3.2.1",
+    "openai>=1.42.0",
+    "pinecone>=7.3.0",
+    "pinecone-client>=3.2.2",
+    "python-dotenv==1.0.1",
+    "pyvis==0.3.1",
+    "rich>=14.2.0",
+    "tqdm==4.66.2",
+]
+

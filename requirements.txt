@@ -1,0 +1,9 @@
+neo4j==5.26.0
+openai>=1.42.0
+pinecone
+networkx==3.2.1
+tqdm==4.66.2
+python-dotenv==1.0.1
+backoff
+
+

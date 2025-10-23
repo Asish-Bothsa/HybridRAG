@@ -1,0 +1,12 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+embedding_cache.json
+__pycache__/
+
+lib/
+*.sqlite3
+*.db
